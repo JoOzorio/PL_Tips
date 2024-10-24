@@ -10,9 +10,24 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Winners and Losers - Tippers Table
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+| Rank       | Name         | Score |
+|:-------------|:------------------|:------|
+| 1           | John        | 54  |
+| 2           | Patrick     | 53  |
+| 3           | Jeremy      | 50   |
+| 4           | Philip      | 49  |
+| 5           | Cameron     | 49  |
+| 6           | Russel      | 49  |
+| 7           | Chris       | 46   |
+| 8           | Mike        | 46  |
+| 9           | CA          | 45  |
+| 10          | Ben         | 45  |
+| 11          | Jose        | 43   |
+| 12          | Gilly       | 40  |
+| 13          | Peter       | 40  |
+
 
 ## Header 2
 
